@@ -18,6 +18,8 @@ and open the template in the editor.
         
         function SCM_FUNCIO3() {}
         
+        function SCM_especial() {}
+        
         ?>
     </body>
 </html>
