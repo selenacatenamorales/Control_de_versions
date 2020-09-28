@@ -16,6 +16,8 @@ and open the template in the editor.
         
         function SCM_FUNCIO2() {}
         
+        function SCM_FUNCIO3() {}
+        
         ?>
     </body>
 </html>
