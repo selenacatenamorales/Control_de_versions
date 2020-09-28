@@ -18,7 +18,10 @@ and open the template in the editor.
         
         function SCM_FUNCIO3() {}
         
-        function SCM_especial() {}
+        function SCM_especial() {
+            
+            echo "Selena Catena Morales";
+        }
         
         ?>
     </body>
